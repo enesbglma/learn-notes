@@ -1,4 +1,4 @@
-# CSS Temelleri – Notlarım
+# CSS Temelleri – Notlarımm
 
 ## 1. CSS Nedir?
 CSS (Cascading Style Sheets), HTML ile oluşturduğumuz sayfaların **tasarımını ve görünümünü** kontrol etmemizi sağlar.

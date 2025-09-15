@@ -65,3 +65,12 @@ Her HTML elemanı bir kutudur:
 - `gap` özelliği ile div’ler arası mesafeyi daha kolay ayarlayabiliyoruz.
 - `flex: 1` özelliği ile her kutunun eşit genişlikte olmasını sağlayabiliyoruz.
 - Responsive yapı için `@media` kullanarak küçük ekranlarda alt alta gelecek şekilde düzen yapılabilir.
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+.container > div {
+  flex: 1;
+  padding: 20px;
+}

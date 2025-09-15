@@ -57,3 +57,11 @@ Her HTML elemanı bir kutudur:
 - Positioning (`static`, `relative`, `absolute`, `fixed`)  
 - Renkler ve Background  
 - Transition & Animation
+
+## Flexbox Temelleri (Bölüm 5 – CSS: Bölüm 2)
+
+- `display: flex;` ile öğeleri yatayda hizalayabiliyoruz.
+- `justify-content: space-between;` ile kutular arasında boşluk bırakabiliyoruz.
+- `gap` özelliği ile div’ler arası mesafeyi daha kolay ayarlayabiliyoruz.
+- `flex: 1` özelliği ile her kutunun eşit genişlikte olmasını sağlayabiliyoruz.
+- Responsive yapı için `@media` kullanarak küçük ekranlarda alt alta gelecek şekilde düzen yapılabilir.
